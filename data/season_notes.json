@@ -1,0 +1,42 @@
+{
+  "title": "Season Notes",
+  "as_of": "2026-10-07T19:53:43-04:00",
+  "generated_at": "2026-10-10T13:33:11-04:00",
+  "disclaimer": "Every score and record below comes from cached ESPN JSON in data/raw/. Estimates are labeled. Nothing is invented.",
+  "bullets": [
+    {
+      "tag": "Record",
+      "text": "Maryland is 2-3 overall (0-2 Big Ten) after 5 games. ESPN standings seed: 16/18."
+    },
+    {
+      "tag": "Streak",
+      "text": "Current streak from schedule results: L3."
+    },
+    {
+      "tag": "Next",
+      "text": "Next: Sat Oct 10 4:15 PM ET @ Ohio State (4-1). TV: BTN."
+    },
+    {
+      "tag": "Bowl",
+      "text": "Bowl: 2 countable wins (FCS wins this season: 1; only one FCS win counts). Need 4 more of 7 left."
+    },
+    {
+      "tag": "FCS",
+      "text": "FCS on schedule: Hampton (final W 62-0)."
+    },
+    {
+      "tag": "Data quirk",
+      "text": "Big Ten position: ESPN team standingSummary said '12th in Big Ten' at fetch time, but standings endpoint seed is used on the wall (labeled ESPN order)."
+    },
+    {
+      "tag": "Data quirk",
+      "text": "Tackles: season leaders feed vs box-score sums differ for: Carlton Smith (Tackles: feed 35 / boxes 34), Daniel Wingate (Tackles: feed 30 / boxes 31), Trey Reddick (Tackles: feed 23 / boxes 19). Cards show season feed."
+    },
+    {
+      "tag": "Estimate",
+      "text": "Bowl probability 5.4% and expected finish \u2248 3.8 wins are TokenMax math on ESPN Matchup Predictor numbers (independent games), not an ESPN figure."
+    }
+  ],
+  "sources_note": "58 ESPN responses cached; fetched_at 2026-10-07T19:53:43-04:00.",
+  "remaster": "Sat Oct 10, 2026 afternoon \u00b7 multi-screen Terps wall \u00b7 on-disk data only"
+}

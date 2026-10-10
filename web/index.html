@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Terps Football · Maryland Wall</title>
+<link rel="stylesheet" href="style.css">
+<!--TRACKERDATA-->
+<!--NOTESDATA-->
+</head>
+<body>
+<div class="flag" aria-hidden="true"></div>
+<div class="glow" aria-hidden="true"></div>
+<div id="app">
+  <header class="mast" id="mast"></header>
+  <nav class="screens" id="screen-nav" role="tablist" aria-label="Terps wall screens">
+    <button type="button" class="sn on" data-screen="wall" role="tab" aria-selected="true">Wall</button>
+    <button type="button" class="sn" data-screen="results" role="tab">Results</button>
+    <button type="button" class="sn" data-screen="bowl" role="tab">Bowl Watch</button>
+    <button type="button" class="sn" data-screen="standings" role="tab">Big Ten</button>
+    <button type="button" class="sn" data-screen="schedule" role="tab">Schedule</button>
+    <button type="button" class="sn" data-screen="leaders" role="tab">Leaders</button>
+    <button type="button" class="sn" data-screen="notes" role="tab">Season Notes</button>
+  </nav>
+  <div class="ticker" aria-hidden="true"><div class="in cond" id="ticker"></div></div>
+
+  <section id="screen-wall" class="screen on" role="tabpanel">
+    <div class="wall-grid">
+      <div class="panel hero" id="hero"></div>
+      <div class="panel next-panel" id="next"></div>
+    </div>
+    <div class="wall-grid mid">
+      <div class="panel" id="form-strip"></div>
+      <div class="panel" id="bowl-chip"></div>
+    </div>
+    <div class="panel" id="wall-notes"></div>
+  </section>
+
+  <section id="screen-results" class="screen" role="tabpanel" hidden>
+    <div class="panel"><h2 class="cond">Results &amp; Box Highlights</h2><p class="lede" id="reslede"></p></div>
+    <div class="games" id="games"></div>
+  </section>
+
+  <section id="screen-bowl" class="screen" role="tabpanel" hidden>
+    <div class="panel"><h2 class="cond">Bowl Watch</h2><p class="lede">Six wins makes a team bowl-eligible. Only one win over an FCS team counts toward the six. Anything labeled <span class="est">Estimate</span> is TokenMax math on ESPN numbers — not an ESPN figure.</p></div>
+    <div class="bowl" id="bowlbox"></div>
+  </section>
+
+  <section id="screen-standings" class="screen" role="tabpanel" hidden>
+    <div class="panel"><h2 class="cond">Big Ten Standings</h2><p class="lede">All 18 teams in ESPN's standings order (seed). <span class="tag">Left</span> = still on Maryland's schedule.</p>
+    <div class="tblwrap"><table class="t" id="stand"></table></div></div>
+  </section>
+
+  <section id="screen-schedule" class="screen" role="tabpanel" hidden>
+    <div class="panel"><h2 class="cond">Remaining Schedule</h2><p class="lede">Kickoffs in Eastern. ESPN shows TBA where time or TV is not set yet.</p>
+    <div class="tblwrap"><table class="t" id="sched"></table></div></div>
+  </section>
+
+  <section id="screen-leaders" class="screen" role="tabpanel" hidden>
+    <div class="panel"><h2 class="cond">Team Stat Leaders</h2><p class="lede">Season to date from ESPN's team leaders feed.</p>
+    <div class="leaders" id="lead"></div>
+    <div class="cmp-wrap"><div class="cond subh">Terps vs opponents · per game</div><div class="cmp" id="cmp"></div></div></div>
+  </section>
+
+  <section id="screen-notes" class="screen" role="tabpanel" hidden>
+    <div class="panel" id="notes-root"></div>
+    <footer class="panel sources-panel" id="src"></footer>
+  </section>
+</div>
+<script src="app.js"></script>
+</body>
+</html>

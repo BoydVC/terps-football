@@ -1,0 +1,1472 @@
+{
+ "generated_at": "2026-10-10T13:36:28-04:00",
+ "fetched_at": "2026-10-07T19:53:43-04:00",
+ "season": 2026,
+ "team": {
+  "name": "Maryland Terrapins",
+  "summary": "12th in Big Ten",
+  "records": {
+   "total": "2-3"
+  },
+  "core_records": {
+   "total": "2-3",
+   "homerecord": "1-2",
+   "awayrecord": "1-1",
+   "vsconf": "0-2"
+  }
+ },
+ "computed_record": "2-3",
+ "games": [
+  {
+   "id": "401858427",
+   "week": 1,
+   "date_et": "Sat Sep 5",
+   "iso": "2026-09-06T00:00Z",
+   "time_et": "8:00 PM ET",
+   "time_valid": true,
+   "home": true,
+   "neutral": false,
+   "venue": "SECU Stadium",
+   "city": "College Park, MD",
+   "tv": [
+    "BTN"
+   ],
+   "opp": {
+    "id": "2261",
+    "abbr": "HAMP",
+    "name": "Hampton Pirates",
+    "location": "Hampton",
+    "nickname": "Hampton",
+    "rank": null,
+    "summary": "12th in CAA"
+   },
+   "conference": false,
+   "status": "STATUS_FINAL",
+   "final": true,
+   "md_score": 62,
+   "opp_score": 0,
+   "win": true,
+   "result": "W",
+   "linescores": {
+    "MD": [
+     17,
+     17,
+     21,
+     7
+    ],
+    "HAMP": [
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "headline": "Maryland rushes for 6 touchdowns, gains 646 yards of offense in a 62-0 win over Hampton",
+   "box": {
+    "md": {
+     "Total Yards": "646",
+     "Passing": "281",
+     "Rushing": "365",
+     "1st Downs": "31",
+     "3rd down efficiency": "8-14",
+     "Turnovers": "0",
+     "Penalties": "6-70",
+     "Possession": "29:03"
+    },
+    "opp": {
+     "Total Yards": "85",
+     "Passing": "75",
+     "Rushing": "10",
+     "1st Downs": "6",
+     "3rd down efficiency": "4-15",
+     "Turnovers": "3",
+     "Penalties": "9-60",
+     "Possession": "30:57"
+    }
+   },
+   "md_top": {
+    "passing": {
+     "name": "Malik Washington",
+     "line": {
+      "C/ATT": "19/31",
+      "YDS": "186",
+      "AVG": "6.0",
+      "TD": "1",
+      "INT": "0",
+      "QBR": "17.1"
+     }
+    },
+    "rushing": {
+     "name": "DeJuan Williams",
+     "line": {
+      "CAR": "3",
+      "YDS": "116",
+      "AVG": "38.7",
+      "TD": "2",
+      "LONG": "94"
+     }
+    },
+    "receiving": {
+     "name": "Na'eem Abdul-Rahim Gladding",
+     "line": {
+      "REC": "6",
+      "YDS": "57",
+      "AVG": "9.5",
+      "TD": "1",
+      "LONG": "20"
+     }
+    },
+    "defensive": {
+     "name": "Trey Reddick",
+     "line": {
+      "TOT": "5",
+      "SOLO": "2",
+      "SACKS": "0",
+      "TFL": "0.5",
+      "PD": "0",
+      "QB HUR": "0",
+      "TD": "0"
+     }
+    }
+   },
+   "scoring_plays": 10,
+   "fcs": true
+  },
+  {
+   "id": "401858444",
+   "week": 2,
+   "date_et": "Sat Sep 12",
+   "iso": "2026-09-12T19:30Z",
+   "time_et": "3:30 PM ET",
+   "time_valid": true,
+   "home": false,
+   "neutral": false,
+   "venue": "Pratt & Whitney Stadium",
+   "city": "East Hartford, CT",
+   "tv": [
+    "CBSSN"
+   ],
+   "opp": {
+    "id": "41",
+    "abbr": "CONN",
+    "name": "UConn Huskies",
+    "location": "UConn",
+    "nickname": "UConn",
+    "rank": null,
+    "summary": null
+   },
+   "conference": false,
+   "status": "STATUS_FINAL",
+   "final": true,
+   "md_score": 38,
+   "opp_score": 14,
+   "win": true,
+   "result": "W",
+   "linescores": {
+    "CONN": [
+     7,
+     0,
+     7,
+     0
+    ],
+    "MD": [
+     7,
+     10,
+     14,
+     7
+    ]
+   },
+   "headline": "Malik Washington, Harry Dalton III lead Maryland to 38-14 win over UConn",
+   "box": {
+    "md": {
+     "Total Yards": "475",
+     "Passing": "350",
+     "Rushing": "125",
+     "1st Downs": "27",
+     "3rd down efficiency": "8-15",
+     "Turnovers": "0",
+     "Penalties": "5-37",
+     "Possession": "35:31"
+    },
+    "opp": {
+     "Total Yards": "223",
+     "Passing": "156",
+     "Rushing": "67",
+     "1st Downs": "12",
+     "3rd down efficiency": "3-11",
+     "Turnovers": "1",
+     "Penalties": "8-72",
+     "Possession": "24:29"
+    }
+   },
+   "md_top": {
+    "passing": {
+     "name": "Malik Washington",
+     "line": {
+      "C/ATT": "34/41",
+      "YDS": "347",
+      "AVG": "8.5",
+      "TD": "2",
+      "INT": "0",
+      "QBR": "67.8"
+     }
+    },
+    "rushing": {
+     "name": "Iverson Howard",
+     "line": {
+      "CAR": "14",
+      "YDS": "55",
+      "AVG": "3.9",
+      "TD": "1",
+      "LONG": "15"
+     }
+    },
+    "receiving": {
+     "name": "Na'eem Abdul-Rahim Gladding",
+     "line": {
+      "REC": "8",
+      "YDS": "130",
+      "AVG": "16.3",
+      "TD": "1",
+      "LONG": "60"
+     }
+    },
+    "defensive": {
+     "name": "Carlton Smith",
+     "line": {
+      "TOT": "6",
+      "SOLO": "4",
+      "SACKS": "0",
+      "TFL": "0",
+      "PD": "0",
+      "QB HUR": "0",
+      "TD": "0"
+     }
+    }
+   },
+   "scoring_plays": 8,
+   "fcs": false
+  },
+  {
+   "id": "401858232",
+   "week": 3,
+   "date_et": "Sat Sep 19",
+   "iso": "2026-09-19T23:30Z",
+   "time_et": "7:30 PM ET",
+   "time_valid": true,
+   "home": true,
+   "neutral": false,
+   "venue": "SECU Stadium",
+   "city": "College Park, MD",
+   "tv": [
+    "FS1"
+   ],
+   "opp": {
+    "id": "259",
+    "abbr": "VT",
+    "name": "Virginia Tech Hokies",
+    "location": "Virginia Tech",
+    "nickname": "Virginia Tech",
+    "rank": null,
+    "summary": "7th in ACC"
+   },
+   "conference": false,
+   "status": "STATUS_FINAL",
+   "final": true,
+   "md_score": 26,
+   "opp_score": 35,
+   "win": false,
+   "result": "L",
+   "linescores": {
+    "MD": [
+     0,
+     14,
+     0,
+     12
+    ],
+    "VT": [
+     7,
+     20,
+     8,
+     0
+    ]
+   },
+   "headline": "Grunkemeyer's sharp start helps Virginia Tech beat Maryland 35-26, snapping Terps' nonconference run",
+   "box": {
+    "md": {
+     "Total Yards": "423",
+     "Passing": "359",
+     "Rushing": "64",
+     "1st Downs": "23",
+     "3rd down efficiency": "7-12",
+     "Turnovers": "0",
+     "Penalties": "8-64",
+     "Possession": "23:21"
+    },
+    "opp": {
+     "Total Yards": "445",
+     "Passing": "314",
+     "Rushing": "131",
+     "1st Downs": "25",
+     "3rd down efficiency": "10-16",
+     "Turnovers": "0",
+     "Penalties": "9-76",
+     "Possession": "36:39"
+    }
+   },
+   "md_top": {
+    "passing": {
+     "name": "Malik Washington",
+     "line": {
+      "C/ATT": "30/44",
+      "YDS": "359",
+      "AVG": "8.2",
+      "TD": "3",
+      "INT": "0",
+      "QBR": "78.1"
+     }
+    },
+    "rushing": {
+     "name": "Harry Dalton III",
+     "line": {
+      "CAR": "6",
+      "YDS": "26",
+      "AVG": "4.3",
+      "TD": "0",
+      "LONG": "13"
+     }
+    },
+    "receiving": {
+     "name": "Chris Durr Jr.",
+     "line": {
+      "REC": "12",
+      "YDS": "109",
+      "AVG": "9.1",
+      "TD": "2",
+      "LONG": "18"
+     }
+    },
+    "defensive": {
+     "name": "Daniel Wingate",
+     "line": {
+      "TOT": "12",
+      "SOLO": "5",
+      "SACKS": "0",
+      "TFL": "1",
+      "PD": "0",
+      "QB HUR": "0",
+      "TD": "0"
+     }
+    }
+   },
+   "scoring_plays": 9,
+   "fcs": false
+  },
+  {
+   "id": "401858462",
+   "week": 4,
+   "date_et": "Sat Sep 26",
+   "iso": "2026-09-26T17:30Z",
+   "time_et": "1:30 PM ET",
+   "time_valid": true,
+   "home": true,
+   "neutral": false,
+   "venue": "SECU Stadium",
+   "city": "College Park, MD",
+   "tv": [
+    "BTN"
+   ],
+   "opp": {
+    "id": "26",
+    "abbr": "UCLA",
+    "name": "UCLA Bruins",
+    "location": "UCLA",
+    "nickname": "UCLA",
+    "rank": null,
+    "overall": "4-0",
+    "conf": "2-0"
+   },
+   "conference": true,
+   "status": "STATUS_FINAL",
+   "final": true,
+   "md_score": 3,
+   "opp_score": 54,
+   "win": false,
+   "result": "L",
+   "linescores": {
+    "MD": [
+     0,
+     3,
+     0,
+     0
+    ],
+    "UCLA": [
+     0,
+     20,
+     14,
+     20
+    ]
+   },
+   "headline": null,
+   "box": {
+    "md": {
+     "Total Yards": "181",
+     "Passing": "142",
+     "Rushing": "39",
+     "1st Downs": "13",
+     "3rd down efficiency": "1-15",
+     "Turnovers": "5",
+     "Penalties": "6-60",
+     "Possession": "28:26"
+    },
+    "opp": {
+     "Total Yards": "475",
+     "Passing": "209",
+     "Rushing": "266",
+     "1st Downs": "19",
+     "3rd down efficiency": "2-10",
+     "Turnovers": "2",
+     "Penalties": "8-60",
+     "Possession": "31:34"
+    }
+   },
+   "md_top": {
+    "passing": {
+     "name": "Malik Washington",
+     "line": {
+      "C/ATT": "18/38",
+      "YDS": "142",
+      "AVG": "3.7",
+      "TD": "0",
+      "INT": "4",
+      "QBR": "3.2"
+     }
+    },
+    "rushing": {
+     "name": "Iverson Howard",
+     "line": {
+      "CAR": "12",
+      "YDS": "34",
+      "AVG": "2.8",
+      "TD": "0",
+      "LONG": "12"
+     }
+    },
+    "receiving": {
+     "name": "Chris Durr Jr.",
+     "line": {
+      "REC": "7",
+      "YDS": "56",
+      "AVG": "8.0",
+      "TD": "0",
+      "LONG": "18"
+     }
+    },
+    "defensive": {
+     "name": "Carlton Smith",
+     "line": {
+      "TOT": "9",
+      "SOLO": "5",
+      "SACKS": "0",
+      "TFL": "1",
+      "PD": "0",
+      "QB HUR": "0",
+      "TD": "0"
+     }
+    }
+   },
+   "scoring_plays": 10,
+   "fcs": false
+  },
+  {
+   "id": "401858475",
+   "week": 5,
+   "date_et": "Sat Oct 3",
+   "iso": "2026-10-03T20:00Z",
+   "time_et": "4:00 PM ET",
+   "time_valid": true,
+   "home": false,
+   "neutral": false,
+   "venue": "Memorial Stadium (Lincoln, NE)",
+   "city": "Lincoln, NE",
+   "tv": [
+    "FS1"
+   ],
+   "opp": {
+    "id": "158",
+    "abbr": "NEB",
+    "name": "Nebraska Cornhuskers",
+    "location": "Nebraska",
+    "nickname": "Nebraska",
+    "rank": null,
+    "overall": "5-0",
+    "conf": "2-0"
+   },
+   "conference": true,
+   "status": "STATUS_FINAL",
+   "final": true,
+   "md_score": 23,
+   "opp_score": 48,
+   "win": false,
+   "result": "L",
+   "linescores": {
+    "NEB": [
+     7,
+     21,
+     0,
+     20
+    ],
+    "MD": [
+     16,
+     7,
+     0,
+     0
+    ]
+   },
+   "headline": "Dwayne McDougle's pick-6 turns game Nebraska's way in a 48-23 victory over Maryland",
+   "box": {
+    "md": {
+     "Total Yards": "395",
+     "Passing": "254",
+     "Rushing": "141",
+     "1st Downs": "19",
+     "3rd down efficiency": "1-14",
+     "Turnovers": "2",
+     "Penalties": "12-115",
+     "Possession": "25:36"
+    },
+    "opp": {
+     "Total Yards": "447",
+     "Passing": "238",
+     "Rushing": "209",
+     "1st Downs": "28",
+     "3rd down efficiency": "6-13",
+     "Turnovers": "1",
+     "Penalties": "16-132",
+     "Possession": "34:24"
+    }
+   },
+   "md_top": {
+    "passing": {
+     "name": "Malik Washington",
+     "line": {
+      "C/ATT": "23/44",
+      "YDS": "254",
+      "AVG": "5.8",
+      "TD": "1",
+      "INT": "2",
+      "QBR": "23.1"
+     }
+    },
+    "rushing": {
+     "name": "DeJuan Williams",
+     "line": {
+      "CAR": "10",
+      "YDS": "78",
+      "AVG": "7.8",
+      "TD": "1",
+      "LONG": "56"
+     }
+    },
+    "receiving": {
+     "name": "Chris Durr Jr.",
+     "line": {
+      "REC": "7",
+      "YDS": "149",
+      "AVG": "21.3",
+      "TD": "1",
+      "LONG": "65"
+     }
+    },
+    "defensive": {
+     "name": "Carlton Smith",
+     "line": {
+      "TOT": "8",
+      "SOLO": "5",
+      "SACKS": "1",
+      "TFL": "1",
+      "PD": "1",
+      "QB HUR": "0",
+      "TD": "0"
+     }
+    }
+   },
+   "scoring_plays": 12,
+   "fcs": false
+  },
+  {
+   "id": "401858483",
+   "week": 6,
+   "date_et": "Sat Oct 10",
+   "iso": "2026-10-10T20:15Z",
+   "time_et": "4:15 PM ET",
+   "time_valid": true,
+   "home": false,
+   "neutral": false,
+   "venue": "Ohio Stadium",
+   "city": "Columbus, OH",
+   "tv": [
+    "BTN"
+   ],
+   "opp": {
+    "id": "194",
+    "abbr": "OSU",
+    "name": "Ohio State Buckeyes",
+    "location": "Ohio State",
+    "nickname": "Ohio State",
+    "rank": 5,
+    "overall": "4-1",
+    "conf": "2-0"
+   },
+   "conference": true,
+   "status": "STATUS_SCHEDULED",
+   "final": false,
+   "espn_md_win_pct": 1.6,
+   "line": {
+    "provider": "DraftKings",
+    "details": "OSU -34.5",
+    "ou": 56.5
+   },
+   "fcs": false,
+   "record_model_win_pct": 23.6
+  },
+  {
+   "id": "401858489",
+   "week": 7,
+   "date_et": "Sat Oct 17",
+   "iso": "2026-10-17T16:30Z",
+   "time_et": "12:30 PM ET",
+   "time_valid": true,
+   "home": true,
+   "neutral": false,
+   "venue": "SECU Stadium",
+   "city": "College Park, MD",
+   "tv": [
+    "BTN"
+   ],
+   "opp": {
+    "id": "164",
+    "abbr": "RUTG",
+    "name": "Rutgers Scarlet Knights",
+    "location": "Rutgers",
+    "nickname": "Rutgers",
+    "rank": null,
+    "overall": "1-4",
+    "conf": "0-2"
+   },
+   "conference": true,
+   "status": "STATUS_SCHEDULED",
+   "final": false,
+   "espn_md_win_pct": 60.7,
+   "line": null,
+   "fcs": false,
+   "record_model_win_pct": 66.5
+  },
+  {
+   "id": "401858503",
+   "week": 9,
+   "date_et": "Sat Oct 31",
+   "iso": "2026-10-31T04:00Z",
+   "time_et": "Time TBA",
+   "time_valid": false,
+   "home": true,
+   "neutral": false,
+   "venue": "SECU Stadium",
+   "city": "College Park, MD",
+   "tv": [],
+   "opp": {
+    "id": "356",
+    "abbr": "ILL",
+    "name": "Illinois Fighting Illini",
+    "location": "Illinois",
+    "nickname": "Illinois",
+    "rank": null,
+    "overall": "2-3",
+    "conf": "0-2"
+   },
+   "conference": true,
+   "status": "STATUS_SCHEDULED",
+   "final": false,
+   "espn_md_win_pct": 39.1,
+   "line": null,
+   "fcs": false,
+   "record_model_win_pct": 55.0
+  },
+  {
+   "id": "401858515",
+   "week": 10,
+   "date_et": "Sat Nov 7",
+   "iso": "2026-11-07T05:00Z",
+   "time_et": "Time TBA",
+   "time_valid": false,
+   "home": false,
+   "neutral": false,
+   "venue": "Ross-Ade Stadium",
+   "city": "West Lafayette, IN",
+   "tv": [],
+   "opp": {
+    "id": "2509",
+    "abbr": "PUR",
+    "name": "Purdue Boilermakers",
+    "location": "Purdue",
+    "nickname": "Purdue",
+    "rank": null,
+    "overall": "2-3",
+    "conf": "1-1"
+   },
+   "conference": true,
+   "status": "STATUS_SCHEDULED",
+   "final": false,
+   "espn_md_win_pct": 36.3,
+   "line": null,
+   "fcs": false,
+   "record_model_win_pct": 45.0
+  },
+  {
+   "id": "401858520",
+   "week": 11,
+   "date_et": "Sat Nov 14",
+   "iso": "2026-11-14T05:00Z",
+   "time_et": "Time TBA",
+   "time_valid": false,
+   "home": true,
+   "neutral": false,
+   "venue": "SECU Stadium",
+   "city": "College Park, MD",
+   "tv": [],
+   "opp": {
+    "id": "275",
+    "abbr": "WIS",
+    "name": "Wisconsin Badgers",
+    "location": "Wisconsin",
+    "nickname": "Wisconsin",
+    "rank": null,
+    "overall": "4-1",
+    "conf": "2-0"
+   },
+   "conference": true,
+   "status": "STATUS_SCHEDULED",
+   "final": false,
+   "espn_md_win_pct": 21.7,
+   "line": null,
+   "fcs": false,
+   "record_model_win_pct": 33.6
+  },
+  {
+   "id": "401858534",
+   "week": 12,
+   "date_et": "Sat Nov 21",
+   "iso": "2026-11-21T05:00Z",
+   "time_et": "Time TBA",
+   "time_valid": false,
+   "home": false,
+   "neutral": false,
+   "venue": "Los Angeles Memorial Coliseum",
+   "city": "Los Angeles, CA",
+   "tv": [],
+   "opp": {
+    "id": "30",
+    "abbr": "USC",
+    "name": "USC Trojans",
+    "location": "USC",
+    "nickname": "USC",
+    "rank": 19,
+    "overall": "5-1",
+    "conf": "2-1"
+   },
+   "conference": true,
+   "status": "STATUS_SCHEDULED",
+   "final": false,
+   "espn_md_win_pct": 6.9,
+   "line": null,
+   "fcs": false,
+   "record_model_win_pct": 20.5
+  },
+  {
+   "id": "401858539",
+   "week": 13,
+   "date_et": "Sat Nov 28",
+   "iso": "2026-11-28T05:00Z",
+   "time_et": "Time TBA",
+   "time_valid": false,
+   "home": true,
+   "neutral": false,
+   "venue": "SECU Stadium",
+   "city": "College Park, MD",
+   "tv": [],
+   "opp": {
+    "id": "213",
+    "abbr": "PSU",
+    "name": "Penn State Nittany Lions",
+    "location": "Penn State",
+    "nickname": "Penn State",
+    "rank": null,
+    "overall": "3-2",
+    "conf": "0-2"
+   },
+   "conference": true,
+   "status": "STATUS_SCHEDULED",
+   "final": false,
+   "espn_md_win_pct": 14.5,
+   "line": null,
+   "fcs": false,
+   "record_model_win_pct": 44.0
+  }
+ ],
+ "standings": [
+  {
+   "id": "84",
+   "abbr": "IU",
+   "name": "Indiana Hoosiers",
+   "short": "Indiana",
+   "location": "Indiana",
+   "rank": 7,
+   "seed": 1,
+   "conf": "2-0",
+   "overall": "5-0",
+   "home": "4-0",
+   "away": "1-0",
+   "pf": 221.0,
+   "pa": 54.0,
+   "diff": 167.0,
+   "streak": "W5"
+  },
+  {
+   "id": "158",
+   "abbr": "NEB",
+   "name": "Nebraska Cornhuskers",
+   "short": "Nebraska",
+   "location": "Nebraska",
+   "rank": null,
+   "seed": 2,
+   "conf": "2-0",
+   "overall": "5-0",
+   "home": "4-0",
+   "away": "1-0",
+   "pf": 218.0,
+   "pa": 71.0,
+   "diff": 147.0,
+   "streak": "W5"
+  },
+  {
+   "id": "26",
+   "abbr": "UCLA",
+   "name": "UCLA Bruins",
+   "short": "UCLA",
+   "location": "UCLA",
+   "rank": 21,
+   "seed": 3,
+   "conf": "2-0",
+   "overall": "4-0",
+   "home": "2-0",
+   "away": "2-0",
+   "pf": 179.0,
+   "pa": 75.0,
+   "diff": 104.0,
+   "streak": "W4"
+  },
+  {
+   "id": "135",
+   "abbr": "MINN",
+   "name": "Minnesota Golden Gophers",
+   "short": "Minnesota",
+   "location": "Minnesota",
+   "rank": null,
+   "seed": 4,
+   "conf": "2-0",
+   "overall": "4-1",
+   "home": "3-1",
+   "away": "1-0",
+   "pf": 160.0,
+   "pa": 90.0,
+   "diff": 70.0,
+   "streak": "W3"
+  },
+  {
+   "id": "194",
+   "abbr": "OSU",
+   "name": "Ohio State Buckeyes",
+   "short": "Ohio State",
+   "location": "Ohio State",
+   "rank": 5,
+   "seed": 5,
+   "conf": "2-0",
+   "overall": "4-1",
+   "home": "3-0",
+   "away": "1-1",
+   "pf": 211.0,
+   "pa": 63.0,
+   "diff": 148.0,
+   "streak": "W3"
+  },
+  {
+   "id": "275",
+   "abbr": "WIS",
+   "name": "Wisconsin Badgers",
+   "short": "Wisconsin",
+   "location": "Wisconsin",
+   "rank": null,
+   "seed": 6,
+   "conf": "2-0",
+   "overall": "4-1",
+   "home": "3-0",
+   "away": "1-0",
+   "pf": 158.0,
+   "pa": 83.0,
+   "diff": 75.0,
+   "streak": "W4"
+  },
+  {
+   "id": "2483",
+   "abbr": "ORE",
+   "name": "Oregon Ducks",
+   "short": "Oregon",
+   "location": "Oregon",
+   "rank": 13,
+   "seed": 7,
+   "conf": "1-0",
+   "overall": "3-1",
+   "home": "2-0",
+   "away": "1-1",
+   "pf": 190.0,
+   "pa": 93.0,
+   "diff": 97.0,
+   "streak": "W2"
+  },
+  {
+   "id": "30",
+   "abbr": "USC",
+   "name": "USC Trojans",
+   "short": "USC",
+   "location": "USC",
+   "rank": 19,
+   "seed": 8,
+   "conf": "2-1",
+   "overall": "5-1",
+   "home": "4-1",
+   "away": "1-0",
+   "pf": 224.0,
+   "pa": 153.0,
+   "diff": 71.0,
+   "streak": "W1"
+  },
+  {
+   "id": "2294",
+   "abbr": "IOWA",
+   "name": "Iowa Hawkeyes",
+   "short": "Iowa",
+   "location": "Iowa",
+   "rank": 20,
+   "seed": 9,
+   "conf": "1-1",
+   "overall": "4-1",
+   "home": "3-1",
+   "away": "1-0",
+   "pf": 145.0,
+   "pa": 63.0,
+   "diff": 82.0,
+   "streak": "L1"
+  },
+  {
+   "id": "77",
+   "abbr": "NU",
+   "name": "Northwestern Wildcats",
+   "short": "Northwestern",
+   "location": "Northwestern",
+   "rank": null,
+   "seed": 10,
+   "conf": "1-1",
+   "overall": "3-1",
+   "home": "3-0",
+   "away": "0-1",
+   "pf": 132.0,
+   "pa": 67.0,
+   "diff": 65.0,
+   "streak": "W1"
+  },
+  {
+   "id": "2509",
+   "abbr": "PUR",
+   "name": "Purdue Boilermakers",
+   "short": "Purdue",
+   "location": "Purdue",
+   "rank": null,
+   "seed": 11,
+   "conf": "1-1",
+   "overall": "2-3",
+   "home": "1-2",
+   "away": "1-1",
+   "pf": 152.0,
+   "pa": 175.0,
+   "diff": -23.0,
+   "streak": "W1"
+  },
+  {
+   "id": "130",
+   "abbr": "MICH",
+   "name": "Michigan Wolverines",
+   "short": "Michigan",
+   "location": "Michigan",
+   "rank": null,
+   "seed": 12,
+   "conf": "0-2",
+   "overall": "3-2",
+   "home": "3-1",
+   "away": "0-1",
+   "pf": 115.0,
+   "pa": 79.0,
+   "diff": 36.0,
+   "streak": "L2"
+  },
+  {
+   "id": "213",
+   "abbr": "PSU",
+   "name": "Penn State Nittany Lions",
+   "short": "Penn State",
+   "location": "Penn State",
+   "rank": null,
+   "seed": 13,
+   "conf": "0-2",
+   "overall": "3-2",
+   "home": "2-1",
+   "away": "1-1",
+   "pf": 160.0,
+   "pa": 80.0,
+   "diff": 80.0,
+   "streak": "L2"
+  },
+  {
+   "id": "264",
+   "abbr": "WASH",
+   "name": "Washington Huskies",
+   "short": "Washington",
+   "location": "Washington",
+   "rank": null,
+   "seed": 14,
+   "conf": "0-2",
+   "overall": "3-2",
+   "home": "3-1",
+   "away": "0-1",
+   "pf": 133.0,
+   "pa": 92.0,
+   "diff": 41.0,
+   "streak": "L2"
+  },
+  {
+   "id": "356",
+   "abbr": "ILL",
+   "name": "Illinois Fighting Illini",
+   "short": "Illinois",
+   "location": "Illinois",
+   "rank": null,
+   "seed": 15,
+   "conf": "0-2",
+   "overall": "2-3",
+   "home": "2-2",
+   "away": "0-1",
+   "pf": 153.0,
+   "pa": 130.0,
+   "diff": 23.0,
+   "streak": "L2"
+  },
+  {
+   "id": "120",
+   "abbr": "MD",
+   "name": "Maryland Terrapins",
+   "short": "Maryland",
+   "location": "Maryland",
+   "rank": null,
+   "seed": 16,
+   "conf": "0-2",
+   "overall": "2-3",
+   "home": "1-2",
+   "away": "1-1",
+   "pf": 152.0,
+   "pa": 151.0,
+   "diff": 1.0,
+   "streak": "L3"
+  },
+  {
+   "id": "127",
+   "abbr": "MSU",
+   "name": "Michigan State Spartans",
+   "short": "Michigan St",
+   "location": "Michigan State",
+   "rank": null,
+   "seed": 17,
+   "conf": "0-2",
+   "overall": "2-3",
+   "home": "2-1",
+   "away": "0-2",
+   "pf": 91.0,
+   "pa": 116.0,
+   "diff": -25.0,
+   "streak": "L3"
+  },
+  {
+   "id": "164",
+   "abbr": "RUTG",
+   "name": "Rutgers Scarlet Knights",
+   "short": "Rutgers",
+   "location": "Rutgers",
+   "rank": null,
+   "seed": 18,
+   "conf": "0-2",
+   "overall": "1-4",
+   "home": "1-3",
+   "away": "0-1",
+   "pf": 150.0,
+   "pa": 161.0,
+   "diff": -11.0,
+   "streak": "L1"
+  }
+ ],
+ "bowl": {
+  "wins": 2,
+  "countable_wins": 2,
+  "fcs_wins": 1,
+  "losses": 3,
+  "needed_total": 6,
+  "wins_needed": 4,
+  "games_left": 7,
+  "max_wins": 9,
+  "can_lose": 3,
+  "p_bowl_espn_based": 5.4,
+  "expected_final_wins": 3.8,
+  "win_distribution": [
+   {
+    "final_wins": 2,
+    "pct": 9.4
+   },
+   {
+    "final_wins": 3,
+    "pct": 30.8
+   },
+   {
+    "final_wins": 4,
+    "pct": 35.6
+   },
+   {
+    "final_wins": 5,
+    "pct": 18.8
+   },
+   {
+    "final_wins": 6,
+    "pct": 4.8
+   },
+   {
+    "final_wins": 7,
+    "pct": 0.6
+   },
+   {
+    "final_wins": 8,
+    "pct": 0.0
+   },
+   {
+    "final_wins": 9,
+    "pct": 0.0
+   }
+  ],
+  "winnable_order": [
+   "401858489",
+   "401858503",
+   "401858515",
+   "401858520",
+   "401858539",
+   "401858534",
+   "401858483"
+  ]
+ },
+ "leaders": [
+  {
+   "key": "passingYards",
+   "label": "Passing yards",
+   "top": [
+    {
+     "athlete_id": "5141695",
+     "name": "Malik Washington",
+     "jersey": "7",
+     "pos": "QB",
+     "class": "Sophomore",
+     "value": "1,288",
+     "line": "124/198, 1288 YDS, 7 TD, 6 INT",
+     "box_sum": 1288,
+     "box_mismatch": false
+    },
+    {
+     "athlete_id": "4872721",
+     "name": "Cardell Williams",
+     "jersey": "6",
+     "pos": "QB",
+     "class": "Senior",
+     "value": "63",
+     "line": "6/7, 63 YDS, 1 TD",
+     "box_sum": 63,
+     "box_mismatch": false
+    },
+    {
+     "athlete_id": "5086182",
+     "name": "Jack Capaldi",
+     "jersey": "22",
+     "pos": "QB",
+     "class": "Senior",
+     "value": "35",
+     "line": "2/2, 35 YDS",
+     "box_sum": 35,
+     "box_mismatch": false
+    }
+   ]
+  },
+  {
+   "key": "rushingYards",
+   "label": "Rushing yards",
+   "top": [
+    {
+     "athlete_id": "5141522",
+     "name": "Iverson Howard",
+     "jersey": "24",
+     "pos": "RB",
+     "class": "Sophomore",
+     "value": "211",
+     "line": "52 CAR, 211 YDS, 4 TD",
+     "box_sum": 211,
+     "box_mismatch": false
+    },
+    {
+     "athlete_id": "5295550",
+     "name": "DeJuan Williams",
+     "jersey": "0",
+     "pos": "RB",
+     "class": "Sophomore",
+     "value": "194",
+     "line": "13 CAR, 194 YDS, 3 TD",
+     "box_sum": 194,
+     "box_mismatch": false
+    },
+    {
+     "athlete_id": "5141419",
+     "name": "Harry Dalton III",
+     "jersey": "25",
+     "pos": "RB",
+     "class": "Freshman",
+     "value": "113",
+     "line": "30 CAR, 113 YDS, 3 TD",
+     "box_sum": 113,
+     "box_mismatch": false
+    }
+   ]
+  },
+  {
+   "key": "receivingYards",
+   "label": "Receiving yards",
+   "top": [
+    {
+     "athlete_id": "5193298",
+     "name": "Chris Durr Jr.",
+     "jersey": "13",
+     "pos": "WR",
+     "class": "Junior",
+     "value": "461",
+     "line": "42 REC, 461 YDS, 4 TD",
+     "box_sum": 461,
+     "box_mismatch": false
+    },
+    {
+     "athlete_id": "5194795",
+     "name": "Na'eem Abdul-Rahim Gladding",
+     "jersey": "1",
+     "pos": "WR",
+     "class": "Junior",
+     "value": "239",
+     "line": "18 REC, 239 YDS, 2 TD",
+     "box_sum": 239,
+     "box_mismatch": false
+    },
+    {
+     "athlete_id": "4838556",
+     "name": "Kaleb Webb",
+     "jersey": "2",
+     "pos": "WR",
+     "class": "Senior",
+     "value": "235",
+     "line": "17 REC, 235 YDS",
+     "box_sum": 235,
+     "box_mismatch": false
+    }
+   ]
+  },
+  {
+   "key": "totalTackles",
+   "label": "Tackles",
+   "top": [
+    {
+     "athlete_id": "5141682",
+     "name": "Carlton Smith",
+     "jersey": "32",
+     "pos": "LB",
+     "class": "Sophomore",
+     "value": "35",
+     "line": null,
+     "box_sum": 34,
+     "box_mismatch": true
+    },
+    {
+     "athlete_id": "4921326",
+     "name": "Daniel Wingate",
+     "jersey": "1",
+     "pos": "LB",
+     "class": "Senior",
+     "value": "30",
+     "line": null,
+     "box_sum": 31,
+     "box_mismatch": true
+    },
+    {
+     "athlete_id": "5218946",
+     "name": "Trey Reddick",
+     "jersey": "3",
+     "pos": "LB",
+     "class": "Junior",
+     "value": "23",
+     "line": null,
+     "box_sum": 19,
+     "box_mismatch": true
+    }
+   ]
+  },
+  {
+   "key": "sacks",
+   "label": "Sacks",
+   "top": [
+    {
+     "athlete_id": "4870792",
+     "name": "Derrick LeBlanc",
+     "jersey": "88",
+     "pos": "DL",
+     "class": "Junior",
+     "value": "2.5",
+     "line": null
+    },
+    {
+     "athlete_id": "5079450",
+     "name": "DD Holmes",
+     "jersey": "56",
+     "pos": "LB",
+     "class": "Sophomore",
+     "value": "2.5",
+     "line": null
+    },
+    {
+     "athlete_id": "5155142",
+     "name": "Eyan Thomas",
+     "jersey": "98",
+     "pos": "DL",
+     "class": "Junior",
+     "value": "2",
+     "line": null
+    }
+   ]
+  },
+  {
+   "key": "interceptions",
+   "label": "Interceptions",
+   "top": [
+    {
+     "athlete_id": "5148665",
+     "name": "Messiah Delhomme",
+     "jersey": "33",
+     "pos": "DB",
+     "class": "Sophomore",
+     "value": "2",
+     "line": null
+    },
+    {
+     "athlete_id": "4912140",
+     "name": "Jamare Glasker",
+     "jersey": "4",
+     "pos": "DB",
+     "class": "Senior",
+     "value": "1",
+     "line": null
+    },
+    {
+     "athlete_id": "5141676",
+     "name": "Jayden Shipps",
+     "jersey": "12",
+     "pos": "DB",
+     "class": "Sophomore",
+     "value": "1",
+     "line": null
+    }
+   ]
+  }
+ ],
+ "team_stats": {
+  "md": {
+   "ppg": "30.4",
+   "ypg": "424.0",
+   "pass_ypg": "277.2",
+   "rush_ypg": "146.8",
+   "ypc": "4.8",
+   "third": "25-71",
+   "third_pct": "35.21",
+   "penalties": "37-346",
+   "giveaways": "7",
+   "takeaways": "10",
+   "to_diff": "3",
+   "sacks": "14"
+  },
+  "opp": {
+   "ppg": "30.2",
+   "ypg": "335.0",
+   "pass_ypg": "198.4",
+   "rush_ypg": "136.6",
+   "ypc": "3.9",
+   "third": "25-66",
+   "third_pct": "37.88",
+   "penalties": "50-400",
+   "giveaways": "7",
+   "takeaways": "6",
+   "to_diff": "-1",
+   "sacks": "6"
+  }
+ },
+ "fcs_group": {
+  "id": "81",
+  "name": "FCS",
+  "abbr": null
+ },
+ "sources": [
+  {
+   "name": "team",
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/120",
+   "fetched_at": "2026-10-07T19:53:29-04:00"
+  },
+  {
+   "name": "schedule",
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/120/schedule",
+   "fetched_at": "2026-10-07T19:53:29-04:00"
+  },
+  {
+   "name": "standings_b1g",
+   "url": "https://site.api.espn.com/apis/v2/sports/football/college-football/standings?group=5",
+   "fetched_at": "2026-10-07T19:53:30-04:00"
+  },
+  {
+   "name": "team_statistics",
+   "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/120/statistics",
+   "fetched_at": "2026-10-07T19:53:30-04:00"
+  },
+  {
+   "name": "core_record_120",
+   "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/teams/120/record",
+   "fetched_at": "2026-10-07T19:53:30-04:00"
+  },
+  {
+   "name": "core_leaders_120",
+   "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/teams/120/leaders",
+   "fetched_at": "2026-10-07T19:53:31-04:00"
+  }
+ ],
+ "source_count": 58
+}
