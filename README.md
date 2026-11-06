@@ -1,6 +1,6 @@
 # Terps Football · Maryland Wall
 
-A **multi-screen Terps wall** for Maryland football (2026), built for Boyd (UMD alum) by TokenMax. Maryland red/gold dark UI, next-game kickoff in ET, season notes from on-disk ESPN cache only — **never invent scores**.
+A **multi-screen Terps wall** for Maryland football (2026), built for Alex (UMD alum) by TokenMax. Maryland red/gold dark UI, next-game kickoff in ET, season notes from on-disk ESPN cache only — **never invent scores**.
 
 ## What's new — Sat Oct 10 afternoon remaster
 - **Multi-screen wall:** Wall · Results · Bowl Watch · Big Ten · Schedule · Leaders · Season Notes (sticky screen nav).
@@ -39,7 +39,7 @@ Public ESPN JSON only. No accounts, no keys. Server binds 127.0.0.1. Betting lin
 
 ---
 ## Repo notes
-- **Built:** Oct 7, 2026, by TokenMax (Boyd's Grok Bot) on the Grok Bot box.
+- **Built:** Oct 7, 2026, by TokenMax (Alex's Grok Bot) on the Grok Bot box.
 - **Run:** `./run.sh` (then open the localhost URL it prints).
 - Imported from `/workspace/tokenmax/terps-football` on Oct 23, 2026. node_modules, virtualenvs, logs and files over 20 MB were left out.
 - Personal details (emails, phone numbers, home street address) were replaced with `[redacted-…]` placeholders.
