@@ -188,6 +188,6 @@ $("cmp").innerHTML=`<div class="crow"><div class="cond" style="color:var(--gold)
 $("src").innerHTML=`<div class="cond" style="font-size:20px;color:var(--txt)">Sources & methods</div>
 <p>All numbers come from ESPN's public site and core APIs. The ${D.source_count} raw responses are cached with their URLs and fetch times in <code>data/raw</code> and <code>data/manifest.json</code>. Pulled ${fmtTime(D.fetched_at)}. Kickoff times are converted to Eastern. Anything labeled <span class="est">Estimate</span> is a model, not a fact.</p>
 <ul>${D.sources.map(s=>`<li>${esc(s.name)}: <a href="${esc(s.url)}">${esc(s.url)}</a></li>`).join("")}<li>Per-game box scores, recap headlines and Matchup Predictor numbers come from <code>…/college-football/summary?event=&lt;id&gt;</code>, one response per game.</li></ul>
-<p>Built by TokenMax for Boyd (UMD) · Go Terps.</p>`;
+<p>Built by TokenMax for Alex (UMD) · Go Terps.</p>`;
 const q=new URLSearchParams(location.search).get("s");if(q&&$(q)){$(q).scrollIntoView();window.scrollBy(0,-46);}
 </script></body></html>

@@ -68,7 +68,7 @@
   $("hero").innerHTML = `
     <div class="kicker" style="color:var(--gold);letter-spacing:.18em;font-size:11px;margin-bottom:6px">2026 SEASON WALL</div>
     <h2 class="cond" style="font-size:34px;margin:0 0 8px">Fear the Turtle</h2>
-    <p class="lede" style="margin-bottom:14px">Multi-screen tracker for Boyd. Scores and records are ESPN-only from on-disk cache — never invented. Kickoffs shown in Eastern.</p>
+    <p class="lede" style="margin-bottom:14px">Multi-screen tracker for Alex. Scores and records are ESPN-only from on-disk cache — never invented. Kickoffs shown in Eastern.</p>
     <div class="rec-row">
       <div class="pill"><b class="cond">${done.length}</b><span>Played</span></div>
       <div class="pill r"><b class="cond">${left.length}</b><span>Left</span></div>
@@ -304,7 +304,7 @@
   $("src").innerHTML = `<div class="cond" style="font-size:18px;color:var(--ink)">Sources &amp; methods</div>
     <p>All numbers come from ESPN's public site and core APIs. The ${D.source_count} raw responses are cached with URLs and fetch times in <code>data/raw</code> and <code>data/manifest.json</code>. Pulled ${fmtTime(D.fetched_at)}. Kickoffs converted to Eastern. Anything labeled <span class="est">Estimate</span> is a model, not a fact.</p>
     <ul>${D.sources.map((s) => `<li>${esc(s.name)}: <a href="${esc(s.url)}">${esc(s.url)}</a></li>`).join("")}<li>Per-game box scores, recaps and Matchup Predictor: <code>…/college-football/summary?event=&lt;id&gt;</code>.</li></ul>
-    <p>Built by TokenMax for Boyd (UMD) · Go Terps · Sat Oct 10 afternoon remaster.</p>`;
+    <p>Built by TokenMax for Alex (UMD) · Go Terps · Sat Oct 10 afternoon remaster.</p>`;
 
   document.body.dataset.ready = "1";
   } // end boot
